@@ -1,7 +1,7 @@
  Streamlit Stock Prediction App
 
 🚀 *Live Deployment:*  
-👉 https://your-app-name.streamlit.app
+👉 https://app-project-3by9zqkhbo7gaxtfjh562f.streamlit.app/.streamlit.app
 
 ## Project Description
 This project is a Streamlit-based web application for stock price prediction using machine learning models.
